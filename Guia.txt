@@ -1,0 +1,7 @@
+
+    REQUERIMIENTOS - ACTIVIDAD 3 (INTERMEDIO)
+    1. Completar el diseño visual con CSS.
+    2. Validar formulario de contacto.
+    3. Cargar noticias dinámicamente.
+    4. Subir la web a Netlify o GitHub Pages.
+    
