@@ -1,0 +1,6 @@
+
+    REQUERIMIENTOS - ACTIVIDAD 1 (INTERMEDIO)
+    1. Agregar animaciones visuales cuando se añade un producto al carrito.
+    2. Recalcular automáticamente el total al cambiar cantidades.
+    3. Mostrar alerta cuando el carrito esté vacío.
+    
